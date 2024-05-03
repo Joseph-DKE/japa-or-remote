@@ -84,7 +84,12 @@ This repository house companies who are known to hire directly from Africa and s
 
 41. <h4><a href="https://scalecapacity.com/careers.html">Scale Capacity</a></h4><p> Amazon Web Services, Cloud, Information Technology, Public Cloud, Cloud Migration, Cloud Optimization, Consulting, AWS, IaaS, IT Consulting, Cloud Consulting, Staffing, and Digital Transformation. </p><p><strong>Location- </strong> USA-Los Angeles, CA | <small>Global Remote</small> </p>
 
-42. <h4><a href="https://www.itssglobal.com/index.php/recruitment/">ITSS</a></h4><p> Information Technologies Solutions & Services (ITSS) develops and delivers banking technology (Temenos Transact/ T24) solutions and services for banks and financial institutions all around the world. </p><p><strong>Location- </strong> Geneva, Switzerland | <small>Global Remote</small> </p>
+42. <h4><a href="https://www.itssglobal.com/index.php/recruitment/">ITSS</a></h4><p> Information Technologies Solutions & Services (ITSS) develops and delivers banking technology (Temenos Transact/ T24) solutions and services for banks and financial institutions all around the world. </p><p><strong>Location- </strong> Geneva, Switzerland | <small>Global Remote</small> </p> 
+
+43. <h4><a href="https://duckduckgo.com">DUCKDUCKGO</a></h4><p>
+Is a privacy-first internet company. They have a private search engine, a tracker-blocking browser extension, and app tracking protection for Android. Currently, DuckDuckGo employs more than 200 people across 15 countries. Job benefits include a $1,250/year professional development budget, location-independent salaries, and office setup reimbursement.
+How does the DuckDuckGo team hire? If the application qualifies you as a good match, there's a brief call with the talent manager. There are two paid test projects, and there will be interviews in between these projects and a final chat after. DuckDuckGo has excellent documentation on how they hire and evaluate candidates.
+</p><p><strong>Location -</strong> Pennsylvania,United States | <small> Global Remote</small> </p>
 
 ## Others
 
